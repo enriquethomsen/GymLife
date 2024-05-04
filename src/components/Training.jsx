@@ -2,7 +2,7 @@ import React from "react";
 
 //assets
 import Pool from "../assets/Pool-min.png";
-import Boxing from "../assets/Boxing.jpg";
+import Boxing from "../assets/boxing.jpg";
 import Yoga from "../assets/Yoga.jpg";
 const Training = () => {
   return (
